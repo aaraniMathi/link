@@ -1,0 +1,71 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.pre_btn{
+	color:white;
+	background-color:#518ee8;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+}
+.pre_btn1{
+	color:white;
+	background-color:#6d747e;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+}	
+.pre_btn2{
+	color:white;
+	background-color:#178754;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+}	
+.pre_btn3{
+	color:white;
+	background-color:#dc3446;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+}	
+.pre_btn4{
+	color:white;
+	background-color:#f9c307;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+}	
+.pre_btn5{
+	color:white;
+	background-color:#09cbf5;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+}	
+.pre_btn6{
+	color:black;
+	background-color:#ffffff;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+}	
+.pre_btn7{
+	color:white;
+	background-color:#20242a;
+	border:none;
+	padding:10px 15px;
+	border-radius:5px;
+}
+.link{
+	color:blue;
+	background-color:transparent;
+	cursor:pointer;
+	border:none;
+	text-decoration:underline;
+}	
+	
+	
+}	
