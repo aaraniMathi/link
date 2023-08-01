@@ -9,6 +9,8 @@
 	border:none;
 	padding:10px 15px;
 	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
 }
 .pre_btn1{
 	color:white;
@@ -16,6 +18,8 @@
 	border:none;
 	padding:10px 15px;
 	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
 }	
 .pre_btn2{
 	color:white;
@@ -23,6 +27,8 @@
 	border:none;
 	padding:10px 15px;
 	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
 }	
 .pre_btn3{
 	color:white;
@@ -30,6 +36,8 @@
 	border:none;
 	padding:10px 15px;
 	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
 }	
 .pre_btn4{
 	color:white;
@@ -37,6 +45,8 @@
 	border:none;
 	padding:10px 15px;
 	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
 }	
 .pre_btn5{
 	color:white;
@@ -44,13 +54,17 @@
 	border:none;
 	padding:10px 15px;
 	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
 }	
 .pre_btn6{
 	color:black;
-	background-color:#ffffff;
+	background-color:#ddc7c72e;
 	border:none;
 	padding:10px 15px;
 	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
 }	
 .pre_btn7{
 	color:white;
@@ -58,6 +72,8 @@
 	border:none;
 	padding:10px 15px;
 	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
 }
 .link{
 	color:blue;
